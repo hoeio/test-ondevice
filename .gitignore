@@ -1,0 +1,9 @@
+models/
+orig/
+cards/
+graft/
+*.log
+.DS_Store
+data/*
+!data/ko.txt
+!data/README.md
